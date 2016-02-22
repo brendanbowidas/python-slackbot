@@ -1,4 +1,4 @@
-#!/Users/brendanbowidas/Desktop/slackbot/python-rtmbot/venv/bin/python
+#!/Users/brendan/Desktop/python-slackbot/venv/bin/python
 
 # $Id: rst2odt_prepstyles.py 5839 2009-01-07 19:09:28Z dkuhlman $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>

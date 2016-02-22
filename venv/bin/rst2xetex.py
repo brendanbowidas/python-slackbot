@@ -1,4 +1,4 @@
-#!/Users/brendanbowidas/Desktop/slackbot/python-rtmbot/venv/bin/python
+#!/Users/brendan/Desktop/python-slackbot/venv/bin/python
 
 # $Id: rst2xetex.py 7038 2011-05-19 09:12:02Z milde $
 # Author: Guenter Milde

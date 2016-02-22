@@ -1,4 +1,4 @@
-#!/Users/brendanbowidas/Desktop/slackbot/python-rtmbot/venv/bin/python
+#!/Users/brendan/Desktop/python-slackbot/venv/bin/python
 
 import argparse
 import code
